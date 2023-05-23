@@ -21,18 +21,7 @@
     "name": "Get Started",
     "url": "https://finhub.cloud/solutions/"
   },
-  "anchors": [
-    {
-      "name": "API Reference",
-      "icon": "rectangle-terminal",
-      "url": "api-reference"
-    }
-  ],
   "navigation": [
-    {
-      "group": "Home",
-      "pages": ["introduction"]
-    },
     {
       "group": "Country Endpoints",
       "pages": [
