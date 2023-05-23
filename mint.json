@@ -1,65 +1,56 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "FinHub",
   "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "dark": "/logo/logo.png",
+    "light": "/logo/logo.png"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#2B56A6",
+    "light": "#3263BF",
+    "dark": "#6ACF78"
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Log In",
+      "url": "https://finhub.cloud/#"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://finhub.cloud/solutions/"
   },
   "anchors": [
     {
       "name": "API Reference",
       "icon": "rectangle-terminal",
       "url": "api-reference"
-    },
-    {
-      "name": "Changelog",
-      "icon": "list",
-      "url": "https://mintlify.com"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
     }
   ],
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "features"]
+      "pages": ["introduction"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
-    },
-    {
-      "group": "Endpoint Examples",
+      "group": "Country Endpoints",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
+        "api-reference/country/post-countrydata",
+        "api-reference/country/post-listdata"
+      ]
+    },
+    {
+      "group": "IP Endpoints",
+      "pages": [
+        "api-reference/ip/get-ipaddress"
       ]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/Finhubfinance",
+    "facebook": "https://fb.me/Finhubcom",
+    "linkedin": "https://www.linkedin.com/company/finhubcom/%20",
+    "website": "https://finhub.cloud/"
   }
 }
