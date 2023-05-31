@@ -11,6 +11,18 @@
     "light": "#3263BF",
     "dark": "#6ACF78"
   },
+  "anchors": [
+    {
+      "name": "SEPA's API",
+      "icon": "square-terminal",
+      "url": "https://finhub.cloud/sepas-api"
+    },
+    {
+      "name": "API Explore",
+      "icon": "magnifying-glass",
+      "url": "https://finhub.cloud/api-explore"
+    }
+  ],
   "topbarLinks": [
     {
       "name": "Log In",
