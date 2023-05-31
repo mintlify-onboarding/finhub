@@ -2,14 +2,14 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "FinHub",
   "logo": {
-    "dark": "/logo/logo.png",
-    "light": "/logo/logo.png"
+    "dark": "/logo.png",
+    "light": "/logo.png"
   },
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#2B56A6",
     "light": "#3263BF",
-    "dark": "#6ACF78"
+    "dark": "#2B56A6"
   },
   "anchors": [
     {
@@ -26,23 +26,43 @@
   "topbarLinks": [
     {
       "name": "Log In",
-      "url": "https://finhub.cloud/#"
+      "url": "https://finhub.cloud"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://finhub.cloud/solutions/"
+    "url": "https://finhub.cloud/solutions"
   },
   "navigation": [
     {
-      "group": "Country Endpoints",
+      "group": "Home",
+      "pages": ["introduction"]
+    },
+    {
+      "group": "Merchant API",
+      "pages": [
+        "api-reference/merchant/pay-3d-secure",
+        "api-reference/merchant/get-status-by-payment-id",
+        "api-reference/merchant/create-status-by-transaction-id",
+        "api-reference/merchant/create-refund",
+        "api-reference/merchant/create-transaction",
+        "api-reference/merchant/get-terminals",
+        "api-reference/merchant/get-saved-cards",
+        "api-reference/merchant/register-token",
+        "api-reference/merchant/delete-token",
+        "api-reference/merchant/pay-with-token",
+        "api-reference/merchant/create-payment-redirect"
+      ]
+    },
+    {
+      "group": "Country API",
       "pages": [
         "api-reference/country/post-countrydata",
         "api-reference/country/post-listdata"
       ]
     },
     {
-      "group": "IP Endpoints",
+      "group": "IP API",
       "pages": [
         "api-reference/ip/get-ipaddress"
       ]
