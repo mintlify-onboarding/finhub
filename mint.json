@@ -21,6 +21,11 @@
       "name": "API Explore",
       "icon": "magnifying-glass",
       "url": "https://finhub.cloud/api-explore"
+    },
+    {
+      "name": "Community",
+      "icon": "messages",
+      "url": "https://finhub.cloud/developers-community"
     }
   ],
   "topbarLinks": [
