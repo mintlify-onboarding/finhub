@@ -419,86 +419,86 @@
         {
           "group": "Admin",
           "pages": [
-            "api-reference/wallet/admin/Approve-Order",
-            "api-reference/wallet/admin/Bulk-Withdraw-Confirm",
-            "api-reference/wallet/admin/Complete-Withdraw-Order",
-            "api-reference/wallet/admin/Get-All-Kraken-Ledger-Info-Query",
-            "api-reference/wallet/admin/get-customer-web3-eth-available-balance",
-            "api-reference/wallet/admin/Get-Customers-Order-History",
-            "api-reference/wallet/admin/Get-Deposit-AND-Withdraw-Order-History",
-            "api-reference/wallet/admin/Get-Smart-Coin-Wallet-Available-Balance",
-            "api-reference/wallet/admin/Get-Tenant-Order-History",
-            "api-reference/wallet/admin/Get-Tenant-Spot-Trading-Available-Balance-1",
-            "api-reference/wallet/admin/Get-Tenant-Spot-Trading-Available-Balance",
-            "api-reference/wallet/admin/Get-Trading-Order-History",
-            "api-reference/wallet/admin/post-web3-transfer"
+            "api-reference/wallet/Admin/Approve-Order",
+            "api-reference/wallet/Admin/Bulk-Withdraw-Confirm",
+            "api-reference/wallet/Admin/Complete-Withdraw-Order",
+            "api-reference/wallet/Admin/Get-All-Kraken-Ledger-Info-Query",
+            "api-reference/wallet/Admin/get-customer-web3-eth-available-balance",
+            "api-reference/wallet/Admin/Get-Customers-Order-History",
+            "api-reference/wallet/Admin/Get-Deposit-AND-Withdraw-Order-History",
+            "api-reference/wallet/Admin/Get-Smart-Coin-Wallet-Available-Balance",
+            "api-reference/wallet/Admin/Get-Tenant-Order-History",
+            "api-reference/wallet/Admin/Get-Tenant-Spot-Trading-Available-Balance-1",
+            "api-reference/wallet/Admin/Get-Tenant-Spot-Trading-Available-Balance",
+            "api-reference/wallet/Admin/Get-Trading-Order-History",
+            "api-reference/wallet/Admin/post-web3-transfer"
           ]
         },
         {
           "group": "Allowed Operation",
           "pages": [
-            "api-reference/wallet/allowed-operation/Change-operation-status-by-Id",
-            "api-reference/wallet/allowed-operation/Create-new-operation",
-            "api-reference/wallet/allowed-operation/Get-operation-by-id",
-            "api-reference/wallet/allowed-operation/Update-new-operation",
-            "api-reference/wallet/allowed-operation/Get-operations-by-assetId"
+            "api-reference/wallet/Allowed-Operation/Change-operation-status-by-Id",
+            "api-reference/wallet/Allowed-Operation/Create-new-operation",
+            "api-reference/wallet/Allowed-Operation/Get-operation-by-id",
+            "api-reference/wallet/Allowed-Operation/Update-new-operation",
+            "api-reference/wallet/Allowed-Operation/Get-operations-by-assetId"
           ]
         },
         {
           "group": "Assets",
           "pages": [
-            "api-reference/wallet/assets/Create-Asset",
-            "api-reference/wallet/assets/Get-%-of-the-avaiable-balanece-for-trading",
-            "api-reference/wallet/assets/Get-Customer-funds",
-            "api-reference/wallet/assets/Update-asset-by-Id",
-            "api-reference/wallet/assets/Update-Asset-Status"
+            "api-reference/wallet/Assets/Create-Asset",
+            "api-reference/wallet/Assets/Get-%-of-the-avaiable-balanece-for-trading",
+            "api-reference/wallet/Assets/Get-Customer-funds",
+            "api-reference/wallet/Assets/Update-asset-by-Id",
+            "api-reference/wallet/Assets/Update-Asset-Status"
           ]
         },
         {
           "group": "Currency",
           "pages": [
-            "api-reference/wallet/currency/Add-currency",
-            "api-reference/wallet/currency/Get-all-currencies",
-            "api-reference/wallet/currency/Get-currency-by-id"
+            "api-reference/wallet/Currency/Add-currency",
+            "api-reference/wallet/Currency/Get-all-currencies",
+            "api-reference/wallet/Currency/Get-currency-by-id"
           ]
         },
         {
           "group": "Currency Pairs",
           "pages": [
-            "api-reference/wallet/currency-pairs/Create-new-currency-pairs",
-            "api-reference/wallet/currency-pairs/Delete-currency-pair",
-            "api-reference/wallet/currency-pairs/Get-all-currency-pairs"
+            "api-reference/wallet/Currency-Pairs/Create-new-currency-pairs",
+            "api-reference/wallet/Currency-Pairs/Delete-currency-pair",
+            "api-reference/wallet/Currency-Pairs/Get-all-currency-pairs"
           ]
         },
         {
           "group": "Dashboard",
           "pages": [
-            "api-reference/wallet/dashboard/Get-Total-Balance-Aggregate",
-            "api-reference/wallet/dashboard/Get-Total-Balance-Series"
+            "api-reference/wallet/Dashboard/Get-Total-Balance-Aggregate",
+            "api-reference/wallet/Dashboard/Get-Total-Balance-Series"
           ]
         },
         {
           "group": "Fee",
           "pages": [
-            "api-reference/wallet/fee/Create-New-fee",
-            "api-reference/wallet/fee/Update-Fee"
+            "api-reference/wallet/Fee/Create-New-fee",
+            "api-reference/wallet/Fee/Update-Fee"
           ]
         },
         {
           "group": "Limit",
           "pages": [
-            "api-reference/wallet/limit/Create-Limit",
-            "api-reference/wallet/limit/Update-Limit"
+            "api-reference/wallet/Limit/Create-Limit",
+            "api-reference/wallet/Limit/Update-Limit"
           ]
         },
         {
           "group": "Misc",
           "pages": [
-            "api-reference/wallet/misc/Create-Bank-Detail",
-            "api-reference/wallet/misc/Delete-Misc",
-            "api-reference/wallet/misc/get-bank-detail-by-customer-id",
-            "api-reference/wallet/misc/Get-Tenant-Bank-Account",
-            "api-reference/wallet/misc/Update-Bank-Detail"
+            "api-reference/wallet/Misc/Create-Bank-Detail",
+            "api-reference/wallet/Misc/Delete-Misc",
+            "api-reference/wallet/Misc/get-bank-detail-by-customer-id",
+            "api-reference/wallet/Misc/Get-Tenant-Bank-Account",
+            "api-reference/wallet/Misc/Update-Bank-Detail"
           ]
         },
         {
@@ -518,38 +518,38 @@
         {
           "group": "Order",
           "pages": [
-            "api-reference/wallet/order/cancel-the-irder-by-id",
-            "api-reference/wallet/order/Create-Order-Status",
-            "api-reference/wallet/order/Create-Order",
-            "api-reference/wallet/order/Delete-trading-Order",
-            "api-reference/wallet/order/Get-all-Orders",
-            "api-reference/wallet/order/Get-kracker-closed-orders",
-            "api-reference/wallet/order/Get-kraken-open-orders",
-            "api-reference/wallet/order/Get-Opened-Orders",
-            "api-reference/wallet/order/Get-Order-History",
-            "api-reference/wallet/order/get-orders",
-            "api-reference/wallet/order/Get-Trade-History",
-            "api-reference/wallet/order/Get-Trading-Order-Detail"
+            "api-reference/wallet/Order/cancel-the-irder-by-id",
+            "api-reference/wallet/Order/Create-Order-Status",
+            "api-reference/wallet/Order/Create-Order",
+            "api-reference/wallet/Order/Delete-trading-Order",
+            "api-reference/wallet/Order/Get-all-Orders",
+            "api-reference/wallet/Order/Get-kracker-closed-orders",
+            "api-reference/wallet/Order/Get-kraken-open-orders",
+            "api-reference/wallet/Order/Get-Opened-Orders",
+            "api-reference/wallet/Order/Get-Order-History",
+            "api-reference/wallet/Order/get-orders",
+            "api-reference/wallet/Order/Get-Trade-History",
+            "api-reference/wallet/Order/Get-Trading-Order-Detail"
           ]
         },
         {
           "group": "Transactions",
           "pages": [
-            "api-reference/wallet/transactions/Create-a-new-Transaction-history",
-            "api-reference/wallet/transactions/Get-All-Transactions-By-Id",
-            "api-reference/wallet/transactions/Get-All-Transactions",
-            "api-reference/wallet/transactions/Get-Transaction-by-Id",
-            "api-reference/wallet/transactions/Get-Transaction-history"
+            "api-reference/wallet/Transactions/Create-a-new-Transaction-history",
+            "api-reference/wallet/Transactions/Get-All-Transactions-By-Id",
+            "api-reference/wallet/Transactions/Get-All-Transactions",
+            "api-reference/wallet/Transactions/Get-Transaction-by-Id",
+            "api-reference/wallet/Transactions/Get-Transaction-history"
           ]
         },
         {
           "group": "Wallets",
           "pages": [
-            "api-reference/wallet/wallets/Create-new-Wallet",
-            "api-reference/wallet/wallets/get-buisness-account-customer-wallets-by-organization-id",
-            "api-reference/wallet/wallets/Get-wallet-by-id",
-            "api-reference/wallet/wallets/Get-Wallet",
-            "api-reference/wallet/wallets/get-wallets-by-customer-id"
+            "api-reference/wallet/Wallets/Create-new-Wallet",
+            "api-reference/wallet/Wallets/get-buisness-account-customer-wallets-by-organization-id",
+            "api-reference/wallet/Wallets/Get-wallet-by-id",
+            "api-reference/wallet/Wallets/Get-Wallet",
+            "api-reference/wallet/Wallets/get-wallets-by-customer-id"
           ]
         }
       ]
