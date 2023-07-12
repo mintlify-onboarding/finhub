@@ -278,9 +278,9 @@
         {
           "group": "EIN Verification",
           "pages": [
-            "api-reference/kyb/EIN-verification/post-ein-verification-comprehensive-check",
-            "api-reference/kyb/EIN-verification/post-ein-verification-basic-check",
-            "api-reference/kyb/EIN-verification/post-ein-verification-lookup"
+            "api-reference/kyb/EIN-Verification/post-ein-verification-comprehensive-check",
+            "api-reference/kyb/EIN-Verification/post-ein-verification-basic-check",
+            "api-reference/kyb/EIN-Verification/post-ein-verification-lookup"
           ]
         },
         {
