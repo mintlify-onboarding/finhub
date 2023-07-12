@@ -278,56 +278,56 @@
         {
           "group": "EIN Verification",
           "pages": [
-            "api-reference/kyb/ein-verification/post-ein-verification-comprehensive-check",
-            "api-reference/kyb/ein-verification/post-ein-verification-basic-check",
-            "api-reference/kyb/ein-verification/post-ein-verification-lookup"
+            "api-reference/kyb/EIN-verification/post-ein-verification-comprehensive-check",
+            "api-reference/kyb/EIN-verification/post-ein-verification-basic-check",
+            "api-reference/kyb/EIN-verification/post-ein-verification-lookup"
           ]
         },
         {
           "group": "IBAN Verification",
           "pages": [
-            "api-reference/kyb/iban-verification/post-iban-verification-check",
-            "api-reference/kyb/iban-verification/post-iban-verification-comprehensive-check"
+            "api-reference/kyb/IBAN-Verification/post-iban-verification-check",
+            "api-reference/kyb/IBAN-Verification/post-iban-verification-comprehensive-check"
           ]
         },
         {
           "group": "NIF Verification",
           "pages": [
-            "api-reference/kyb/nif-verification/post-nif-verification-basic-check",
-            "api-reference/kyb/nif-verification/post-nif-verification-comprehensive-check"
+            "api-reference/kyb/NIF-Verification/post-nif-verification-basic-check",
+            "api-reference/kyb/NIF-Verification/post-nif-verification-comprehensive-check"
           ]
         },
         {
           "group": "Product",
           "pages": [
-            "api-reference/kyb/product/post-ubo-retrive",
-            "api-reference/kyb/product/post-ubo-update",
-            "api-reference/kyb/product/post-ubo"
+            "api-reference/kyb/Product/post-ubo-retrive",
+            "api-reference/kyb/Product/post-ubo-update",
+            "api-reference/kyb/Product/post-ubo"
           ]
         },
         {
           "group": "System",
           "pages": [
-            "api-reference/kyb/system/get-countries",
-            "api-reference/kyb/system/get-health",
-            "api-reference/kyb/system/get-pricelist"
+            "api-reference/kyb/System/get-countries",
+            "api-reference/kyb/System/get-health",
+            "api-reference/kyb/System/get-pricelist"
           ]
         },
         {
           "group": "TIN Verification",
           "pages": [
-            "api-reference/kyb/tin-verification/post-tin-verification-basic-check",
-            "api-reference/kyb/tin-verification/post-tin-verification-comprehensive-check",
-            "api-reference/kyb/tin-verification/post-tin-verification-name-lookup"
+            "api-reference/kyb/TIN-Verification/post-tin-verification-basic-check",
+            "api-reference/kyb/TIN-Verification/post-tin-verification-comprehensive-check",
+            "api-reference/kyb/TIN-Verification/post-tin-verification-name-lookup"
           ]
         },
         {
           "group": "VAT Verification",
           "pages": [
-            "api-reference/kyb/vat-verification/post-vat-verification-basic-check",
-            "api-reference/kyb/vat-verification/post-vat-verification-comprehensive-check",
-            "api-reference/kyb/vat-verification/post-vat-verification-lookup",
-            "api-reference/kyb/vat-verification/post-vat-verification-leveltwo-check"
+            "api-reference/kyb/Vat-Verification/post-vat-verification-basic-check",
+            "api-reference/kyb/Vat-Verification/post-vat-verification-comprehensive-check",
+            "api-reference/kyb/Vat-Verification/post-vat-verification-lookup",
+            "api-reference/kyb/Vat-Verification/post-vat-verification-leveltwo-check"
           ]
         }
       ]
@@ -382,11 +382,11 @@
         {
           "group": "Rules",
           "pages": [
-            "api-reference/smart-contract/rules/create-rule",
-            "api-reference/smart-contract/rules/Delete-rule",
-            "api-reference/smart-contract/rules/Get-All-Rule-By-Tenant-Id",
-            "api-reference/smart-contract/rules/get-rules-by-tenant-id-and-operation-type",
-            "api-reference/smart-contract/rules/update-rule"
+            "api-reference/smart-contract/Rules/create-rule",
+            "api-reference/smart-contract/Rules/Delete-rule",
+            "api-reference/smart-contract/Rules/Get-All-Rule-By-Tenant-Id",
+            "api-reference/smart-contract/Rules/get-rules-by-tenant-id-and-operation-type",
+            "api-reference/smart-contract/Rules/update-rule"
           ]
         },
         {
@@ -518,18 +518,18 @@
         {
           "group": "Order",
           "pages": [
-            "api-reference/wallet/Order/cancel-the-irder-by-id",
-            "api-reference/wallet/Order/Create-Order-Status",
-            "api-reference/wallet/Order/Create-Order",
-            "api-reference/wallet/Order/Delete-trading-Order",
-            "api-reference/wallet/Order/Get-all-Orders",
-            "api-reference/wallet/Order/Get-kracker-closed-orders",
-            "api-reference/wallet/Order/Get-kraken-open-orders",
-            "api-reference/wallet/Order/Get-Opened-Orders",
-            "api-reference/wallet/Order/Get-Order-History",
-            "api-reference/wallet/Order/get-orders",
-            "api-reference/wallet/Order/Get-Trade-History",
-            "api-reference/wallet/Order/Get-Trading-Order-Detail"
+            "api-reference/wallet/order/cancel-the-irder-by-id",
+            "api-reference/wallet/order/Create-Order-Status",
+            "api-reference/wallet/order/Create-Order",
+            "api-reference/wallet/order/Delete-trading-Order",
+            "api-reference/wallet/order/Get-all-Orders",
+            "api-reference/wallet/order/Get-kracker-closed-orders",
+            "api-reference/wallet/order/Get-kraken-open-orders",
+            "api-reference/wallet/order/Get-Opened-Orders",
+            "api-reference/wallet/order/Get-Order-History",
+            "api-reference/wallet/order/get-orders",
+            "api-reference/wallet/order/Get-Trade-History",
+            "api-reference/wallet/order/Get-Trading-Order-Detail"
           ]
         },
         {
