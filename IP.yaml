@@ -4,7 +4,7 @@ info:
   description: Ip
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/ip'
+  - url: 'https://gateway.finhub.cloud/ip'
 security:
   - default: []
 paths:

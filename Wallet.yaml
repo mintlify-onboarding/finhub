@@ -4,7 +4,7 @@ info:
   description: wallet
   version: 1.0.0
 servers:
-  - url: "https://gateway.qbs.ag/wallet"
+  - url: "https://gateway.finhub.cloud/wallet"
 security:
   - default: []
 paths:

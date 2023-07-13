@@ -4,7 +4,7 @@ info:
   description: crypto
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/crypto'
+  - url: 'https://gateway.finhub.cloud/crypto'
 security:
   - apikeyAuth: []
 tags:

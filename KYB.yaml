@@ -4,7 +4,7 @@ info:
   description: kyb
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/kyb'
+  - url: 'https://gateway.finhub.cloud/kyb'
 security:
   - default: []
 paths:

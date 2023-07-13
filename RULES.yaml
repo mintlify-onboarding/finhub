@@ -4,7 +4,7 @@ info:
   description: Rule
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/rules'
+  - url: 'https://gateway.finhub.cloud/rules'
 security:
   - default: []
 paths:

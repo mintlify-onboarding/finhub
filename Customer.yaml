@@ -4,7 +4,7 @@ info:
   description: customer
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/customer'
+  - url: 'https://gateway.finhub.cloud/customer'
 security:
   - default: []
 paths:

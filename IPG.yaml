@@ -4,7 +4,7 @@ info:
   description: Ipg
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/ipg'
+  - url: 'https://gateway.finhub.cloud/ipg'
     description: Staging
 security:
   - default: []

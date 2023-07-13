@@ -4,7 +4,7 @@ info:
   description: peps
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/peps'
+  - url: 'https://gateway.finhub.cloud/peps'
 paths:
   /getToken:
     post:

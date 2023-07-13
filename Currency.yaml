@@ -4,7 +4,7 @@ info:
   description: currency
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/currency'
+  - url: 'https://gateway.finhub.cloud/currency'
 security:
   - default: []
 paths:

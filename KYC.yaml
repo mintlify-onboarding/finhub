@@ -4,7 +4,7 @@ info:
   description: kyc
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/kyc'
+  - url: 'https://gateway.finhub.cloud/kyc'
 paths:
   /authorize:
     post:

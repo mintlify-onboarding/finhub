@@ -4,7 +4,7 @@ info:
   description: Aml
   version: 1.0.0
 servers:
-  - url: 'https://gateway.qbs.ag/aml'
+  - url: 'https://gateway.finhub.cloud/aml'
 security:
   - default: []
 paths:

@@ -40,6 +40,12 @@
   },
   "navigation": [
     {
+      "group": "Introduction",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
       "group": "AML",
       "pages": [
         "api-reference/aml/get-document",
